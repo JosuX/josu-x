@@ -1,7 +1,7 @@
 const exp = [
 	{
 		role: "Business Owner and Software Engineering Consultant",
-		duration: "January 2023 - Present",
+		duration: "October 2024 - Present",
 		company: "Josu Technologies",
 		description: "I built a client-focused business offering a range of services, including SEO, Digital Marketing, Funnel Website Development, and Social Media Management. By delivering measurable improvements in client online visibility and engagement, I helped businesses enhance their digital presence. Additionally, I provided software engineering consultancy, offering tailored solutions to address unique client needs. I also supervised a dynamic team, fostering collaboration and ensuring high-quality deliverables.",
 	},
