@@ -85,7 +85,8 @@ const Header = () => {
 					</Link>
 					<Link
 						className="w-[40px] h-[40px] rounded-full glass-code justify-center items-center flex"
-						href={""}
+						href="https://github.com/JosuX/josu-x"
+						target="_blank"
 					>
 						{memoizedFaCode}
 					</Link>
